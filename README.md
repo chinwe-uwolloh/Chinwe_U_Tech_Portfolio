@@ -3,7 +3,7 @@
 This repository contains my personal portfolio website, built to showcase my work across AI, product, systems, and technical project leadership.
 
 ## Live Demo
-- [View the portfolio](https://chinweuwolloh.com/)
+- [View the portfolio](https://chinwes-portfolio.com/)
 
 ## Tech Stack
 - React
