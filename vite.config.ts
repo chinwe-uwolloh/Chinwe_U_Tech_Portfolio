@@ -4,8 +4,8 @@ import path from "path";
 
 // https://vitejs.dev/config/
 export default defineConfig(() => ({
-  // GitHub Pages deploys under /<repo-name>/
-  base: process.env.GITHUB_ACTIONS ? "/Chinwe_U_Tech_Portfolio/" : "/",
+  // Custom domain serves from root path
+  base: "/",
   server: {
     host: "::",
     port: 8080,
