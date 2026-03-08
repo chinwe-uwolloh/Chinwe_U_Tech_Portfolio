@@ -30,9 +30,9 @@ const categories = [
     id: "PROJECT MANAGEMENT",
     label: "PROJECT MANAGEMENT",
     icon: Users,
-    color: "from-purple-500/20 to-purple-500/5",
-    borderColor: "border-purple-500/50",
-    activeColor: "bg-purple-500 text-white"
+    color: "from-teal-600/20 to-teal-600/5",
+    borderColor: "border-teal-600/50",
+    activeColor: "bg-teal-600 text-white"
   },
   {
     id: "AI & AUTOMATION WORKFLOWS",

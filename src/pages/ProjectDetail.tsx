@@ -83,8 +83,8 @@ const ProjectDetail = () => {
       title: "Key Features & Technology",
       icon: Wrench,
       content: project.roadmap.features,
-      color: "from-purple-500/10 to-pink-500/10",
-      iconColor: "text-purple-500"
+      color: "from-teal-500/10 to-cyan-500/10",
+      iconColor: "text-teal-500"
     },
     {
       id: project.roadmap.visuals ? 4 : 3,
@@ -107,8 +107,8 @@ const ProjectDetail = () => {
       title: "Go-to-Market Strategy",
       icon: TrendingUp,
       content: project.roadmap.market,
-      color: "from-indigo-500/10 to-violet-500/10",
-      iconColor: "text-indigo-500"
+      color: "from-blue-600/10 to-sky-500/10",
+      iconColor: "text-blue-600"
     },
     {
       id: project.roadmap.visuals ? 7 : 6,

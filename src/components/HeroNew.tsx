@@ -43,7 +43,7 @@ const expertiseAreas = [
     id: "PROJECT MANAGEMENT",
     label: "PROJECT MANAGEMENT",
     icon: Users,
-    gradient: "from-purple-500/20 via-purple-500/10 to-transparent",
+    gradient: "from-teal-600/20 via-teal-600/10 to-transparent",
   },
   {
     id: "AI & AUTOMATION WORKFLOWS",
